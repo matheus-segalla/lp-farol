@@ -71,7 +71,7 @@ export default function FarolLP() {
         {/* CTA Principal */}
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4 animate-on-scroll delay-200">
           <a
-            href="https://kiwify.com.br" 
+            href="https://pay.kiwify.com.br/8puuBXO" 
             target="_blank"
             rel="noreferrer"
             className="w-full sm:w-auto px-8 py-4 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl shadow-lg shadow-red-600/25 transition-all transform hover:-translate-y-0.5 flex items-center justify-center gap-2 text-base"
@@ -279,7 +279,7 @@ export default function FarolLP() {
           </ul>
 
           <a
-            href="https://kiwify.com.br"
+            href="https://pay.kiwify.com.br/8puuBXO"
             target="_blank"
             rel="noreferrer"
             className="w-full py-4 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl block shadow-lg shadow-red-600/30 transition text-base"
